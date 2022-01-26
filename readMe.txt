@@ -1,0 +1,1 @@
+Jenkins server is started.
